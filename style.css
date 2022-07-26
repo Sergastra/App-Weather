@@ -85,6 +85,14 @@ body {
 .showData .desc {
     font-size: 2rem;
     text-transform: capitalize;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.showData .desc > img {
+    width: 70px;
+    height: 70px;
 }
 
 .showData .icon {
