@@ -87,7 +87,6 @@ body {
     text-transform: capitalize;
     display: flex;
     justify-content: center;
-    align-items: center;
 }
 
 .showData .desc > img {
